@@ -7,5 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ArbaazAli1209/Strivers-Leet-Codes/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/ArbaazAli1209/Strivers-Leet-Codes/tree/master/0258-add-digits) |
 | [2235-add-two-integers](https://github.com/ArbaazAli1209/Strivers-Leet-Codes/tree/master/2235-add-two-integers) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ArbaazAli1209/Strivers-Leet-Codes/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ArbaazAli1209/Strivers-Leet-Codes/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
