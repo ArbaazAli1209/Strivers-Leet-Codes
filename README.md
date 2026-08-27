@@ -22,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/ArbaazAli1209/Strivers-Leet-Codes/tree/master/1009-complement-of-base-10-integer) |
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/ArbaazAli1209/Strivers-Leet-Codes/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/ArbaazAli1209/Strivers-Leet-Codes/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
