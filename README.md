@@ -26,10 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ArbaazAli1209/Strivers-Leet-Codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/ArbaazAli1209/Strivers-Leet-Codes/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/ArbaazAli1209/Strivers-Leet-Codes/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ArbaazAli1209/Strivers-Leet-Codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/ArbaazAli1209/Strivers-Leet-Codes/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/ArbaazAli1209/Strivers-Leet-Codes/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
