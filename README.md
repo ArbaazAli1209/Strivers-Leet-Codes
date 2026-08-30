@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/ArbaazAli1209/Strivers-Leet-Codes/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ArbaazAli1209/Strivers-Leet-Codes/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/ArbaazAli1209/Strivers-Leet-Codes/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/ArbaazAli1209/Strivers-Leet-Codes/tree/master/0258-add-digits) |
 | [2235-add-two-integers](https://github.com/ArbaazAli1209/Strivers-Leet-Codes/tree/master/2235-add-two-integers) |
 ## Simulation
@@ -33,5 +34,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ArbaazAli1209/Strivers-Leet-Codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ArbaazAli1209/Strivers-Leet-Codes/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/ArbaazAli1209/Strivers-Leet-Codes/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/ArbaazAli1209/Strivers-Leet-Codes/tree/master/0704-binary-search) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ArbaazAli1209/Strivers-Leet-Codes/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
